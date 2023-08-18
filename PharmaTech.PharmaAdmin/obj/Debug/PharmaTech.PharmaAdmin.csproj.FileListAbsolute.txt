@@ -1,0 +1,7 @@
+C:\PharmaAdmin\PharmaTech.PharmaAdmin\bin\Debug\PharmaTech.PharmaAdmin.exe.config
+C:\PharmaAdmin\PharmaTech.PharmaAdmin\bin\Debug\PharmaTech.PharmaAdmin.exe
+C:\PharmaAdmin\PharmaTech.PharmaAdmin\bin\Debug\PharmaTech.PharmaAdmin.pdb
+C:\PharmaAdmin\PharmaTech.PharmaAdmin\obj\Debug\PharmaTech.PharmaAdmin.csproj.AssemblyReference.cache
+C:\PharmaAdmin\PharmaTech.PharmaAdmin\obj\Debug\PharmaTech.PharmaAdmin.csproj.CoreCompileInputs.cache
+C:\PharmaAdmin\PharmaTech.PharmaAdmin\obj\Debug\PharmaTech.PharmaAdmin.exe
+C:\PharmaAdmin\PharmaTech.PharmaAdmin\obj\Debug\PharmaTech.PharmaAdmin.pdb
