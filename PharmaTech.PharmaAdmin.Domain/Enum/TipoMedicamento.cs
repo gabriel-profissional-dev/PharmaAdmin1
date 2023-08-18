@@ -8,15 +8,8 @@ namespace PharmaTech.PharmaAdmin.Domain.Enum
 {
     public enum TipoMedicamento
     {
-        Analgesico,
-        Antibiotico,
-        AntiInflamatorio,
-        Antialergico,
-        Antidepressivo,
-        Diuretico,
-        Antipiretico,
-        Sedativo,
-        Anticoagulante,
-        Hormonal    
+        Original = 1,
+        Generico = 2,
+        Similar = 3
     }
 }
